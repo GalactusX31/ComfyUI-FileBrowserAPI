@@ -9,6 +9,6 @@ Repository = "https://github.com/GalactusX31/ComfyUI-FileBrowserAPI"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "GalactusX31"
+PublisherId = "galactusx31"
 DisplayName = "ComfyUI-FileBrowserAPI"
 Icon = ""
