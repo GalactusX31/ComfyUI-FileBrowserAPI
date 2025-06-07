@@ -6,6 +6,8 @@ This extension provides a backend service and a frontend JavaScript class (`app.
 
 This is a simple example node that integrates API functionality using several widgets and other events, such as 2 button widgets, a double-click event on the node, and a menu that adds both the file and folder picker.
 
+*(Note: If you want to try the features/uses described here, just copy "PathSelectorExample" into your "...\ComfyUI\custom_nodes" folder).*
+
 ![Example](Screenshots/Simple_use.png)
 
 This is what the selector actually looks like
