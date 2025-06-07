@@ -1,0 +1,26 @@
+# === Python Cache & Generated Files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Virtual Environments ===
+venv/
+env/
+.venv/
+.env/
+
+# === IDEs and Text Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Operating System Generated Files ===
+.DS_Store
+Thumbs.db
+
+# === Temporary Files ===
+*.swp
+*.swo
+*~

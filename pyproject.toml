@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-FileFolderBrowserAPI"
+description = "A general-purpose, dependency-free File and Folder Browser API for ComfyUI custom nodes."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GalactusX31/ComfyUI-FileBrowserAPI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "GalactusX31"
+DisplayName = "ComfyUI-FileFolderBrowserAPI"
+Icon = ""
